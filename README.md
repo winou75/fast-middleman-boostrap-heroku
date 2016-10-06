@@ -1,10 +1,12 @@
 #Middleman with bootstrap on Heroku
 
-precompiled and served statically
+precompiled boostrapped and served statically 
+
+(basically a copy of http://github.com/indirect/middleman-heroku-static-app.git with bootstrap to start & deliver fasst)
 
 #Usage
 
-`$ git clone http://github.com/indirect/middleman-heroku-static-app.git mysite && cd mysite`
+`$ git clone https://github.com/winou75/faststatic.git mysite && cd mysite`
 
 `$ bundle install && bundle exec middleman init .`
 
