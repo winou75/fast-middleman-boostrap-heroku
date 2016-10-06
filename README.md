@@ -1,5 +1,7 @@
 #Middleman with bootstrap on Heroku
 
+fast static pages like [darwin.ninja](http://darwin.ninja)
+
 precompiled boostrapped and served statically 
 
 (basically a copy of http://github.com/indirect/middleman-heroku-static-app.git with bootstrap to start & deliver fasst)
