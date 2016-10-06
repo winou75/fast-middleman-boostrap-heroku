@@ -1,0 +1,32 @@
+/* -------------------------------------
+ * Bootstrap sass variable
+ * (see http://getbootstrap.com/customize/#less-variables)
+ * example below
+ * ------------------------------------- */
+
+// General style
+$font-family-sans-serif:  $base-font;
+$body-bg:                 #222222;
+$body-color:				white;
+$font-weight-base:			100;
+$font-size-base:          $base-size;
+$line-height-base:        $base-height;
+$headings-font-family:    $header-font;
+
+$link-color:            #e9c795;
+$link-hover-color:      darken($link-color, 15%);
+//** Link hover decoration.
+$link-hover-decoration: underline;
+
+
+// Semantic color scheme
+$brand-primary:   $blue;
+$brand-success:   $green;
+$brand-info:      $yellow;
+$brand-danger:    $red;
+$brand-warning:   $orange;
+
+// Buttons / inputs radius
+$border-radius-base:  2px;
+$border-radius-large: 2px;
+$border-radius-small: 2px;
